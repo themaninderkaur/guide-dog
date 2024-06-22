@@ -1,4 +1,4 @@
-# Binoculars - Object Detection with Text-to-Speech
+# Binoculars - Object Detection with Video-to-Speech
 
 This Python script demonstrates object detection using OpenCV's DNN module and provides spoken feedback using text-to-speech capabilities.
 

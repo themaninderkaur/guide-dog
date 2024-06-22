@@ -56,6 +56,11 @@ Imagine effortlessly exploring educational videos, news clips, entertainment con
 - NumPy (`numpy`)
 - pyttsx3 (`pyttsx3`)
 
+## Next Steps
+
+Something to note is that Binoculars is still in its early stages. The next steps would be to make the video recognition much more immersive and allow the audio assistant to actually have full description of what is in front of the user, rather than simply stating the object.
+
+
 ---
 
 Maninder Kaur

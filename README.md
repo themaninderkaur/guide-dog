@@ -1,11 +1,11 @@
 # Binoculars - Object Detection with Video-to-Speech
 
    ```bash
-88d8b.d8b.      88     88 
-88'`88'`88`     88   88
-88  88  88      88 8
-88  88  88      88   88
-88  88  88  88  88    88  88
+88d8b.d8b.      88    888 
+88'`88'`88`     88  d8
+88  88  88      88 K
+88  88  88      88  98
+88  88  88  88  88    888  88
    ```
 
 
@@ -28,7 +28,7 @@ Imagine effortlessly exploring educational videos, news clips, entertainment con
    - NumPy (`numpy`)
    - pyttsx3 (`pyttsx3`)
 
-2. Download the YOLOv3 model files (`yolov3.weights`, `yolov3.cfg`) and class names file (`name.names`).
+2. Download the YOLOv3 model files (`yolov3.weights`, `yolov3.cfg`) and class names file (`name.names`). There are repos for YOLOv3 and can be downloaded from these places. Even downaloded from this repo will be resourceful. Just amke sure all the files are in the same folder.
 
 3. Update the paths to the model weights, configuration file, and class names file in the code (`ObjectDetector` initialization).
 

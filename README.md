@@ -1,10 +1,10 @@
 # Binoculars - Object Detection with Video-to-Speech
 
    ```bash
-88d8b.d8b.      88    88 
-88'`88'`88`     88  d8
-88  88  88      88 K
-88  88  88      88  98
+88d8b.d8b.      88    88
+88'`88'`88`     88  d8 
+88  88  88      88 K    
+88  88  88      88  98  
 88  88  88  88  88    88  88
    ```
 

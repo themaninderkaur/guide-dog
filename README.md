@@ -1,5 +1,14 @@
 # Binoculars - Object Detection with Video-to-Speech
 
+
+88d8b.d8b.            
+88'`88'`88`       
+88  88  88         
+88  88  88  88   
+
+
+
+
 This Python script demonstrates object detection using OpenCV's DNN module and provides spoken feedback using text-to-speech capabilities.
 
 NOTE: you need to downlaod the yolov3.weights file (not included) to make the follwing code work. 

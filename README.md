@@ -1,4 +1,4 @@
-# Binoculars - Object Detection with Video-to-Speech
+# Guide Dog - Object Detection with Video-to-Speech
 
    ```bash
 88d8b.d8b.      88    88
@@ -15,11 +15,11 @@ This Python script demonstrates object detection using OpenCV's DNN module and p
 NOTE: you need to downlaod the yolov3.weights file (not included) to make the follwing code work. 
 
 
-Introducing the revolutionary video-to-speech algorithm, designed to empower the visually impaired community! Using neural networks and video recognition libraries, we’ve created Binoculars to accurately describe visual content from videos in real-time. By converting visual information into clear and detailed spoken descriptions, our algorithm provides a seamless and immersive experience for users, enabling them to access a wide range of video content independently.
+Introducing the revolutionary video-to-speech algorithm, designed to empower the visually impaired community! Using neural networks and video recognition libraries, we’ve created Guide Dog to accurately describe visual content from videos in real-time. By converting visual information into clear and detailed spoken descriptions, our algorithm provides a seamless and immersive experience for users, enabling them to access a wide range of video content independently.
 
-How does it work? Using Python, Binoculars splits the screen into blocks and analyzes each. As it analyzes it slowly makes inferences and can put the image back together. Using a list of requirements, it makes a conclusion of what the item is. It then grabs data from the position of the object and supposed distance to say it through a speaker, allowing for the user to be guided. 
+How does it work? Using Python, Guide Dog splits the screen into blocks and analyzes each. As it analyzes it slowly makes inferences and can put the image back together. Using a list of requirements, it makes a conclusion of what the item is. It then grabs data from the position of the object and supposed distance to say it through a speaker, allowing for the user to be guided. 
 
-Imagine effortlessly exploring educational videos, news clips, entertainment content, and more, with rich and descriptive audio narrations guiding your experience. Binoculars speaks to the user, guiding them through their everyday life, enhancing the depth and richness of the auditory experience.
+Imagine effortlessly exploring educational videos, news clips, entertainment content, and more, with rich and descriptive audio narrations guiding your experience. Guide Dog speaks to the user, guiding them through their everyday life, enhancing the depth and richness of the auditory experience.
 
 ## Setup
 
@@ -68,7 +68,7 @@ Imagine effortlessly exploring educational videos, news clips, entertainment con
 
 ## Next Steps
 
-Something to note is that Binoculars is still in its early stages. The next steps would be to make the video recognition much more immersive and allow the audio assistant to actually have full description of what is in front of the user, rather than simply stating the object.
+Something to note is that Guide Dog is still in its early stages. The next steps would be to make the video recognition much more immersive and allow the audio assistant to actually have full description of what is in front of the user, rather than simply stating the object.
 
 
 ---

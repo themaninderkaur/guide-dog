@@ -26,7 +26,7 @@ Imagine effortlessly exploring educational videos, news clips, entertainment con
 1. Install the required libraries:
    - OpenCV (`cv2`)
    - NumPy (`numpy`)
-   - pyttsx3 (`pyttsx3`)
+   - Google's text-to-speech (`gtts`)
 
 2. Download the YOLOv3 model files (`yolov3.weights`, `yolov3.cfg`) and class names file (`name.names`). There are repos for YOLOv3 and can be downloaded from these places. Even downaloded from this repo will be resourceful. Just amke sure all the files are in the same folder.
 
@@ -64,7 +64,7 @@ Imagine effortlessly exploring educational videos, news clips, entertainment con
 - Python 3.x
 - OpenCV (`cv2`)
 - NumPy (`numpy`)
-- pyttsx3 (`pyttsx3`)
+- gTTS (`gtts`)
 
 ## Next Steps
 
